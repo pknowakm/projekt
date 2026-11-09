@@ -4,5 +4,6 @@ int main(){
     cout << "Hello World!" << endl;
 
     int x = 5; 
-    cout << "The value of x is: " << x << endl;
+    cout << "ten program to kurwa" << endl;
+    return 0;
 }
