@@ -3,7 +3,7 @@ using namespace std;
 int main(){
     cout << "Hello World!" << endl;
 
-    int x = 5; 
-    cout << "ten program to kurwa" << endl;
+    int x = 15; 
+    cout << "ten program to kurwa drugi test" << endl;
     return 0;
 }
