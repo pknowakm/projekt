@@ -4,6 +4,6 @@ int main(){
     cout << "Hello World!" << endl;
 
     int x = 15; 
-    cout << "ten program to kurwa drugi wefet" << endl;
+    cout << "co teraz" << endl;
     return 0;
 }
