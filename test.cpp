@@ -1,2 +1,0 @@
-#ilcude <iostream>
-using namespace
